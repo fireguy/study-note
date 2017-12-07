@@ -1,7 +1,10 @@
-# 目录
+# 前言
 
-* [前言](README.md)
-* [技术路线](roadmap.md)
-* 
+Github托管：https://github.com/fireguy/study-note
+
+在线阅读：https://www.gitbook.com/book/fireguy/study-note
+
+
+
 
 
