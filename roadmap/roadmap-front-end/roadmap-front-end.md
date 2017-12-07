@@ -4,7 +4,7 @@
 
 ![front-end roadmap](res/roadmap-front-end.jpg)
 
-图片来源：[2017年 Web 程序员技术发展路线图](https://zhuanlan.zhihu.com/p/25897612)
+>图片来源：[2017年 Web 程序员技术发展路线图](https://zhuanlan.zhihu.com/p/25897612)
 
 ## 参考阅读：
 
@@ -16,6 +16,3 @@
 6. [【译】Angular vs React vs Vue](https://zhuanlan.zhihu.com/p/28349401)
 7. [2018年前端开发工程师前景怎么样？](https://zhuanlan.zhihu.com/p/31630053)
 8. [如何正确地总结 2016 前端技术？](https://www.zhihu.com/question/53705450)
-
-
-
