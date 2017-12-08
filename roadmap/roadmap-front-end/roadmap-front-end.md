@@ -18,3 +18,4 @@
 8. [如何正确地总结 2016 前端技术？](https://www.zhihu.com/question/53705450)
 9. [Electron开发，如何入坑？ ](https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247485626&idx=1&sn=bf60e71918222186e25257d838ce7868&chksm=97236a78a054e36e987259dc4143c4cdeb5804bc9d6b6b82a93b95421c4cc88b15e63e0c08a3&mpshare=1&scene=23&srcid=1207g8O9D0ISpw0UJAiR2OaH#rd)
 10. [Three.js 中文教程](http://techbrood.com/threejs/docs/#)
+11. [知乎专栏-从2016年11月期《技术雷达》看前端的未来](https://zhuanlan.zhihu.com/p/23492610)
