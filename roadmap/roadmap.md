@@ -1,8 +1,6 @@
 # Roadmap
 
-![roadmap](res/roadmap.jpg)
-
-> 图片来源：[2017年 Web 程序员技术发展路线图](https://zhuanlan.zhihu.com/p/25897612)
+![roadmap](https://i.imgur.com/MWkeM18.png)
 
 >[github源码](https://github.com/kamranahmedse/developer-roadmap)
 
