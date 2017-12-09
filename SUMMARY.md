@@ -1,10 +1,6 @@
 # 目录
-
 * [前言](README.md)
 * [技术路线](roadmap/roadmap.md)
-  * [前端技术路线](roadmap/roadmap-front-end/roadmap-front-end.md)
-  * [后端技术路线](roadmap/roadmap-back-end/roadmap-back-end.md)
-  * [DeOps技术路线](roadmap/roadmap-devops/roadmap-devops.md)
 * [基础](basic/index.md)
   * [git](Git/git.md)
   * [makedown](makedown/makedown.md)
