@@ -1,5 +1,4 @@
 # 1. Introduction
-
 ![roadmap](https://i.imgur.com/MWkeM18.png)
 
 ## 1.1 参考阅读
@@ -8,8 +7,7 @@
 3. [Repractise简介篇：Web开发的七天里](https://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=403171959&idx=1&sn=08f0717e2306efd7d80c8bb603e644d0#rd)
 
 
-# 2. Roadmap- front end
-
+# 2. Roadmap - front end
 ![front-end roadmap](https://i.imgur.com/qx54HvK.png)
 
 ## 2.1 参考阅读：
@@ -27,12 +25,10 @@
 
 
 # 3. Roadmap- back end
-
 ![back-end roadmap](https://i.imgur.com/jz4xrlQ.png)
 
 
 # 4. Roadmap- DevOps
-
 ![devops roadmap](https://i.imgur.com/z23zTH3.png)
 
 >图片来源：[2017年 Web 程序员技术发展路线图](https://zhuanlan.zhihu.com/p/25897612)
