@@ -23,7 +23,7 @@
 * [DevOps](DevOps/index.md)
 
 # TODO
-- [大型开放式网络课程(MOOC: massive open online courses）](https://baike.baidu.com/item/%E5%A4%A7%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E7%BD%91%E7%BB%9C%E8%AF%BE%E7%A8%8B?fromtitle=MOOC&fromid=8301540)
+- [大型开放式网络课程(MOOC: massive open online courses）](https://baike.baidu.com/item/%E5%A4%A7%E5%9E%8B%E5%BC%80%E6%94%BE%E5%BC%8F%E7%BD%91%E7%BB%9C%E8%AF%BE%E7%A8%8B?fromtitle=MOOC)
   - [果壳网-mooc学院](https://mooc.guokr.com/)
   - [中国大学Mooc](https://www.icourse163.org/)
   - [edX中国](https://www.edx.org/edxchina)
@@ -38,4 +38,6 @@
   - [iversity](www.iversity.org)
   - [ewant](http://www.ewant.org/)
   - [教育无边界字幕组](http://www.edu-infinity.org/)
-- [] test
+- [菜鸟教程](http://www.runoob.com/)
+- [网易云课堂](study.163.com)
+- [腾讯课堂](ke.qq.com)

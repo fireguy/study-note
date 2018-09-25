@@ -1,5 +1,12 @@
 # 1. Introduction
-![roadmap](https://i.imgur.com/MWkeM18.png)
+[github-developer-roadmap源码](https://github.com/kamranahmedse/developer-roadmap)
+[developer-roadmap中文版本](https://github.com/kamranahmedse/developer-roadmap/blob/c1494728ab995382a7af060e2ba9e54385cfcb1f/readme-cn.md)
+roadmap-2017
+![roadmap-2017](https://i.imgur.com/MWkeM18.png)
+roadmap-2018
+![roadmap-2018](https://i.imgur.com/OZUOUtI.png)
+roadmap-2018-cn
+![roadmap-2018](res\cn\2018WebDevelop-cn.png)
 
 ## 1.1 参考阅读
 1. [2017最火 Web 技术栈，都有谁在用，以及你应该学什么？](https://zhuanlan.zhihu.com/p/26890113)
@@ -8,7 +15,14 @@
 
 
 # 2. Roadmap - front end
-![front-end roadmap](https://i.imgur.com/qx54HvK.png)
+front-end roadmap-2017-en roadmap
+![front-end roadmap-2017-en roadmap](https://i.imgur.com/qx54HvK.png)
+
+front-end roadmap-2018-en roadmap
+![front-end roadmap-2018-en roadmap](res\en\frontend-v2.png)
+
+front-end roadmap-2018-cn roadmap
+![front-end roadmap-2018-cn](res\cn\Front-end-cn.png)
 
 ## 2.1 参考阅读：
 1. [Web前端开发大系概览 （前端开发技术栈）](https://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html)  [github](https://github.com/unruledboy/WebFrontEndStack)
@@ -25,11 +39,20 @@
 
 
 # 3. Roadmap- back end
-![back-end roadmap](https://i.imgur.com/jz4xrlQ.png)
-
+back-end roadmap-2017
+![back-end roadmap-2017](https://i.imgur.com/jz4xrlQ.png)
+back-end roadmap-2018
+![back-end roadmap](res\en\backend.png)
+back-end roadmap-2018-cn
+![back-end roadmap](res\cn\Back-end-cn.png)
 
 # 4. Roadmap- DevOps
+devops roadmap-2017
 ![devops roadmap](https://i.imgur.com/z23zTH3.png)
+devops roadmap-2018
+![devops roadmap](res\en\devops.png)
+devops roadmap-2018-cn
+![devops roadmap](res\cn\DevOps-cn.png)
 
 >图片来源：[2017年 Web 程序员技术发展路线图](https://zhuanlan.zhihu.com/p/25897612)
 
